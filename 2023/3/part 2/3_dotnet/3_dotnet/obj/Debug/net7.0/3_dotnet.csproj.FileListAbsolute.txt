@@ -1,0 +1,15 @@
+C:\Repo\AdventOfCode\2023\3\Part 1\3_dotnet\3_dotnet\bin\Debug\net7.0\3_dotnet.exe
+C:\Repo\AdventOfCode\2023\3\Part 1\3_dotnet\3_dotnet\bin\Debug\net7.0\3_dotnet.deps.json
+C:\Repo\AdventOfCode\2023\3\Part 1\3_dotnet\3_dotnet\bin\Debug\net7.0\3_dotnet.runtimeconfig.json
+C:\Repo\AdventOfCode\2023\3\Part 1\3_dotnet\3_dotnet\bin\Debug\net7.0\3_dotnet.dll
+C:\Repo\AdventOfCode\2023\3\Part 1\3_dotnet\3_dotnet\bin\Debug\net7.0\3_dotnet.pdb
+C:\Repo\AdventOfCode\2023\3\Part 1\3_dotnet\3_dotnet\obj\Debug\net7.0\3_dotnet.csproj.AssemblyReference.cache
+C:\Repo\AdventOfCode\2023\3\Part 1\3_dotnet\3_dotnet\obj\Debug\net7.0\3_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\AdventOfCode\2023\3\Part 1\3_dotnet\3_dotnet\obj\Debug\net7.0\3_dotnet.AssemblyInfoInputs.cache
+C:\Repo\AdventOfCode\2023\3\Part 1\3_dotnet\3_dotnet\obj\Debug\net7.0\3_dotnet.AssemblyInfo.cs
+C:\Repo\AdventOfCode\2023\3\Part 1\3_dotnet\3_dotnet\obj\Debug\net7.0\3_dotnet.csproj.CoreCompileInputs.cache
+C:\Repo\AdventOfCode\2023\3\Part 1\3_dotnet\3_dotnet\obj\Debug\net7.0\3_dotnet.dll
+C:\Repo\AdventOfCode\2023\3\Part 1\3_dotnet\3_dotnet\obj\Debug\net7.0\refint\3_dotnet.dll
+C:\Repo\AdventOfCode\2023\3\Part 1\3_dotnet\3_dotnet\obj\Debug\net7.0\3_dotnet.pdb
+C:\Repo\AdventOfCode\2023\3\Part 1\3_dotnet\3_dotnet\obj\Debug\net7.0\3_dotnet.genruntimeconfig.cache
+C:\Repo\AdventOfCode\2023\3\Part 1\3_dotnet\3_dotnet\obj\Debug\net7.0\ref\3_dotnet.dll
