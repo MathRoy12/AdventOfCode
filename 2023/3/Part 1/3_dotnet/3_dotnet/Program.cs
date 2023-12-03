@@ -1,12 +1,10 @@
 ﻿using System.Text.RegularExpressions;
-using _3_dotnet;
 
 StreamReader sr = new StreamReader("input.txt");
 
 string input = sr.ReadToEnd();
 
 string[] lines = input.Split("\n");
-List<symbole> listSymboles = new List<symbole>();
 
 int sum = 0;
 
@@ -21,12 +19,6 @@ for (int i = 0; i < lines.Length; i++)
         int lastNum = 0;
         if (rgx.IsMatch(lines[i][j].ToString()))
         {
-            Console.WriteLine(new symbole()
-            {
-                symbol = lines[i][j],
-                x = j,
-                y = i
-            });
             if (rgx2.IsMatch(lines[i != 0 ? i - 1 : 0][j != 0 ? j - 1 : 0].ToString()) && i != 0 && j != 0)
             {
                 int x = j - 1;

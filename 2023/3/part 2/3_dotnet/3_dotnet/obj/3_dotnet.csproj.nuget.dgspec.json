@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repo\\AdventOfCode\\2023\\3\\Part 1\\3_dotnet\\3_dotnet\\3_dotnet.csproj": {}
+    "C:\\Repo\\AdventOfCode\\2023\\3\\part 2\\3_dotnet\\3_dotnet\\3_dotnet.csproj": {}
   },
   "projects": {
-    "C:\\Repo\\AdventOfCode\\2023\\3\\Part 1\\3_dotnet\\3_dotnet\\3_dotnet.csproj": {
+    "C:\\Repo\\AdventOfCode\\2023\\3\\part 2\\3_dotnet\\3_dotnet\\3_dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repo\\AdventOfCode\\2023\\3\\Part 1\\3_dotnet\\3_dotnet\\3_dotnet.csproj",
+        "projectUniqueName": "C:\\Repo\\AdventOfCode\\2023\\3\\part 2\\3_dotnet\\3_dotnet\\3_dotnet.csproj",
         "projectName": "3_dotnet",
-        "projectPath": "C:\\Repo\\AdventOfCode\\2023\\3\\Part 1\\3_dotnet\\3_dotnet\\3_dotnet.csproj",
+        "projectPath": "C:\\Repo\\AdventOfCode\\2023\\3\\part 2\\3_dotnet\\3_dotnet\\3_dotnet.csproj",
         "packagesPath": "C:\\Users\\matou\\.nuget\\packages\\",
-        "outputPath": "C:\\Repo\\AdventOfCode\\2023\\3\\Part 1\\3_dotnet\\3_dotnet\\obj\\",
+        "outputPath": "C:\\Repo\\AdventOfCode\\2023\\3\\part 2\\3_dotnet\\3_dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matou\\AppData\\Roaming\\NuGet\\NuGet.Config",
